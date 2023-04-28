@@ -58,7 +58,7 @@ header {
 /* SOLAR SYSTEM */
 
 .sun {
-  background: url(/assets/sun.png);
+  background: url(./assets/sun.png);
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 50%;
